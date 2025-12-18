@@ -75,4 +75,4 @@ A full-stack e-commerce application built with the MERN stack (MongoDB, Express,
 
 ## Credits
 
-Rebranded and customized from "Dynamic Coding with Amit".
+Rebranded and customized from "Dynamic Coding with Avinav".
